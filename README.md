@@ -1,7 +1,7 @@
 
-<p><em>Estudante na <a href="https://trybe.com>Trybe</a>, aprendendo desenvolvimento Web Full Stack. 😊
+<p><em>Estudante na <a href="https://trybe.com>Trybe</a>, aprendendo desenvolvimento Web Full Stack. 😊 </br>
 </em></p>
-</br>
+
 
 ```javascript
 const aboutMe = {
