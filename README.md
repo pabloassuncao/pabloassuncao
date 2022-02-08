@@ -23,6 +23,7 @@ const aboutMe = {
    challenge: "Aprofundar meus conhecimentos",
 };
 ```
+
 </br></br>
 <h2>💻 Algumas stats 💻</h2>
 
