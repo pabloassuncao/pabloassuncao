@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=700&lines=Bem+vindo+ao+meu+Perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!)](https://git.io/typing-svg)
 
 
 <p><em>Estudante na <a href="https://betrybe.com">Trybe</a>, aprendendo desenvolvimento Web Full Stack. 😊 </br>
