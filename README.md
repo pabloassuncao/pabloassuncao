@@ -28,7 +28,25 @@ const aboutMe = {
 
 </br></br>
 <h2>💻 Algumas stats 💻</h2>
+<br />
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=pabloassuncao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div align="center">
+  <a href="https://github.com/pabloassuncao">
+    <img
+      alt="GitHub Stats card"
+      align="center"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&custom_title=GitHub Stats&hide=issues&hide_rank=true&include_all_commits=true&show_icons=true&theme=react"
+    />
+  </a>
+  <a href="https://github.com/gugadolzan">
+    <img
+      alt="Most Used Languages card"
+      align="center"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugadolzan&layout=compact&theme=react"
+    />
+  </a>
+</div>
 
----
+<br />
