@@ -27,10 +27,10 @@ const aboutMe = {
 ```
 
 </br></br>
-<h2>💻 Algumas stats 💻</h2>
-<br />
 
 <div align="center">
+   <h2>💻 Algumas stats 💻</h2>
+   
   <a href="https://github.com/pabloassuncao">
     <img
       alt="GitHub Stats card"
