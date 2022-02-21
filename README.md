@@ -23,9 +23,9 @@ const aboutMe = {
    currentOccupation: ["Prestes a se formar na Trybe, em busca de um emprego"],
    challenge: "Aprofundar meus conhecimentos",
    contacts: {
-      email: pabloassuncao2@gmail.com
-      LinkedIn: https://www.linkedin.com/in/pablo-pinheiro-assuncao/
-      phone: +55 (11) 96846-9041
+      email: "pabloassuncao2@gmail.com"
+      LinkedIn: "https://www.linkedin.com/in/pablo-pinheiro-assuncao/"
+      phone: "+55 (11) 96846-9041"
    }
 };
 ```
