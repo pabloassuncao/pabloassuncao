@@ -16,7 +16,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express", "Sequelize"],
          ts: ["Node", "Express", "Type ORM"],
-         misc: ["Bash", "Mocha", "JEST", "Sinon", "Chai"]
+         misc: ["Bash", "Mocha", "JEST", "Sinon", "Chai", "Docker", "Heroku"]
       },
       databases: ["MongoDB", "mySQL" ],
    },
