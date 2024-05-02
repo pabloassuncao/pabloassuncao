@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!)](https://git.io/typing-svg)
 
 
-<p><em>Estudante na <a href="https://betrybe.com">Trybe</a>, aprendendo desenvolvimento Web Full Stack. 😊 </br>
+<p><em>Graduando de Sistemas de Informação na USP e formado na <a href="https://betrybe.com">Trybe</a> como Desenvolvedor Web Full Stack. 😊 </br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS ],
+   code: [Javascript, Typescript, Java, C, HTML, CSS ],
    technologies: {
       frontEnd: {
-         js: ["React" ],
+         js: ["React", "Next.js" ],
          css: ["Materialize", "Bootstrap", "Material Design", "Ant Design"]
       },
       backEnd: {
@@ -24,8 +24,7 @@ const aboutMe = {
    challenge: "Aprofundar meus conhecimentos",
    contacts: {
       email: "pabloassuncao2@gmail.com",
-      LinkedIn: "https://www.linkedin.com/in/pablo-pinheiro-assuncao/",
-      phone: "+55 (11) 96846-9041"
+      LinkedIn: "https://www.linkedin.com/in/pablo-pinheiro-assuncao/"
    }
 };
 ```
