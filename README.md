@@ -20,8 +20,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL" ],
    },
-   currentOccupation: ["Prestes a se formar na Trybe, em busca de um emprego"],
-   challenge: "Aprofundar meus conhecimentos",
+   currentOccupation: ["Formado na Trybe em busca de novos conhecimentos"],
+   challenge: "Poder agregar em um ambiente por uma causa maior e agregar com os meus conhecimentos e minha força de vontade o máximo possível",
    contacts: {
       email: "pabloassuncao2@gmail.com",
       LinkedIn: "https://www.linkedin.com/in/pablo-pinheiro-assuncao/"
